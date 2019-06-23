@@ -1,3 +1,5 @@
 # My-First-Repository
 
-This repo is owned by Mr. Bartucz
+This repo is authored by Mr. Bartucz
+
+This is a really important change.
